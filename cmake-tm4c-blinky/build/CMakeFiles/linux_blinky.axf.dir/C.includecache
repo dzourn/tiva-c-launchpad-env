@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dimitris/Desktop/tiva_projects/cmake-tm4c-blinky/inc/tm4c123gh6pm.h
+
+/home/dimitris/Desktop/tiva_projects/cmake-tm4c-blinky/src/blinky.c
+../inc/tm4c123gh6pm.h
+/home/dimitris/Desktop/tiva_projects/cmake-tm4c-blinky/inc/tm4c123gh6pm.h
+stdint.h
+-
+
+/home/dimitris/Desktop/tiva_projects/cmake-tm4c-blinky/src/startup.c
+stdint.h
+-
+../../tivaware/inc/hw_nvic.h
+/home/dimitris/Desktop/tiva_projects/tivaware/inc/hw_nvic.h
+../../tivaware/inc/hw_types.h
+/home/dimitris/Desktop/tiva_projects/tivaware/inc/hw_types.h
+
+/home/dimitris/Desktop/tiva_projects/tivaware/inc/hw_nvic.h
+
+/home/dimitris/Desktop/tiva_projects/tivaware/inc/hw_types.h
+

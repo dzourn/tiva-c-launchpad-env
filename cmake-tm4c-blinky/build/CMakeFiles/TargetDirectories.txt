@@ -1,0 +1,4 @@
+/home/dimitris/Desktop/tiva_projects/cmake-tm4c-blinky/build/CMakeFiles/rebuild_cache.dir
+/home/dimitris/Desktop/tiva_projects/cmake-tm4c-blinky/build/CMakeFiles/edit_cache.dir
+/home/dimitris/Desktop/tiva_projects/cmake-tm4c-blinky/build/CMakeFiles/linux_blinky.axf.dir
+/home/dimitris/Desktop/tiva_projects/cmake-tm4c-blinky/build/CMakeFiles/flash.dir
